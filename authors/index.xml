@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Nelson Kibinge</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Nelson Kibinge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Nelson Kibinge is a Senior Research Associate with the genetic epidemiology group at the MRC Integrated Epidemiology Unit at the university of Bristol. His research interests include statistical genomics of autoimmune diseases, malaria immunology and virus genetic diversity. He has been leading the statistics department at the KEMRI-Wellcome Trust, which conducts extensive clinical trials and pathogen surveillance studies. Nelson has led the development of statistical and computational systems for analysis of the resultant data from these studies. Nelson also has an interest in human genetics and variation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
