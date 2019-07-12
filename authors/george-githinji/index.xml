@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>George Githinji on Nelson Kibinge</title>
+    <link>/authors/george-githinji/</link>
+    <description>Recent content in George Githinji on Nelson Kibinge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/george-githinji/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evaluating the performance of tools used to call minority variants from whole genome short-read data</title>
+      <link>/publication/mohammed-2018-evaluating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mohammed-2018-evaluating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
