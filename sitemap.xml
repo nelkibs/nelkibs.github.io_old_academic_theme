@@ -100,6 +100,7 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>/authors/others/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -286,6 +287,10 @@
     <loc>/authors/samuel-brand/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+=======
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+>>>>>>> 77603c2f9d244836675346c624f258ce135db443
   </url>
   
   <url>
@@ -328,6 +333,15 @@
   </url>
   
   <url>
+<<<<<<< HEAD
+=======
+    <loc>/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+>>>>>>> 77603c2f9d244836675346c624f258ce135db443
     <loc>/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -385,14 +399,18 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>/authors/admin/_index-nelsons-conflicted-copy-2019-07-15/</loc>
   </url>
   
   <url>
+=======
+>>>>>>> 77603c2f9d244836675346c624f258ce135db443
     <loc>/home/</loc>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>/authors/</loc>
     <priority>0</priority>
   </url>
@@ -405,4 +423,9 @@
     <loc>/publication/_index-nelsons-conflicted-copy-2019-07-15/</loc>
   </url>
   
+=======
+    <loc>/courses/</loc>
+  </url>
+  
+>>>>>>> 77603c2f9d244836675346c624f258ce135db443
 </urlset>

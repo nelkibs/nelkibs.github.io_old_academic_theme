@@ -6,12 +6,17 @@
     <description>Recent content in 2 on Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+>>>>>>> 77603c2f9d244836675346c624f258ce135db443
     
 	    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>Biomarkers of post-discharge mortality among children with complicated severe acute malnutrition</title>
       <link>/publication/njunge-2019-biomarkers/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -39,6 +44,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> 77603c2f9d244836675346c624f258ce135db443
       <title>An example journal article</title>
       <link>/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>

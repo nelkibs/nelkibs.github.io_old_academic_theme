@@ -6,19 +6,42 @@
     <description>Recent content in Authors on Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+<<<<<<< HEAD
+=======
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+>>>>>>> 77603c2f9d244836675346c624f258ce135db443
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>/authors/admin/_index-nelsons-conflicted-copy-2019-07-15/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/_index-nelsons-conflicted-copy-2019-07-15/</guid>
+=======
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+>>>>>>> 77603c2f9d244836675346c624f258ce135db443
       <description>&lt;p&gt;Nelson Kibinge is  a Senior Research Associate at the University of Bristol IEU with the epigenetic epidemiology group. Nelson is also affilitated to the KEMRI-Wellcome Trust Research Program in Kilifi Kenya as a senior Postdoctoral Researcher interested in statistics and computational biology.&lt;/p&gt;
 </description>
     </item>
     
+<<<<<<< HEAD
+=======
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+>>>>>>> 77603c2f9d244836675346c624f258ce135db443
   </channel>
 </rss>
