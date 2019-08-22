@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on Nelson Kibinge</title>
+    <link>/tags/research/</link>
+    <description>Recent content in research on Nelson Kibinge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autoimmune Biomarkers</title>
+      <link>/project/autoimmune-project/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/autoimmune-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Molecular Biomarker Pipeline</title>
+      <link>/project/proteomics/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/proteomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSV genetic diversity Tracking</title>
+      <link>/project/rsv_diversity/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/rsv_diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TransReguloNet</title>
+      <link>/project/transregulonet-project/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/transregulonet-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

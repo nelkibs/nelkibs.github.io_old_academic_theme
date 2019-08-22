@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetic Diversity on Nelson Kibinge</title>
+    <link>/tags/genetic-diversity/</link>
+    <description>Recent content in Genetic Diversity on Nelson Kibinge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/genetic-diversity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RSV genetic diversity Tracking</title>
+      <link>/project/rsv_diversity/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/rsv_diversity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
