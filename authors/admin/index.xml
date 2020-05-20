@@ -6,10 +6,19 @@
     <description>Recent content on Nelson Kibinge</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Characterizing the Causal Pathway for Genetic Variants Associated with Neurological Phenotypes Using Human Brain-Derived Proteome Data</title>
+      <link>/publication/kibinge_2020/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kibinge_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Biomarkers of post-discharge mortality among children with complicated severe acute malnutrition</title>
@@ -353,10 +362,10 @@ rm Untitled.md
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Kibinge is a senior research associate at the University of Bristol (MRC-IEU). His interests include development of statistical and computational biology applications for genomics, transcriptomics, proteomics and  metabolomics data mining. He is involved in diverse research areas including autoimmune diseases, malaria and respiratory virus epidemiology with experience in biomarker and therapeutic target prioritization. Nelson is also affiliated to the KEMRI-Wellcome Trust Research Program, a unique center of scientific research excellence in Africa and is also a part-time lecturer at the Pwani University department of Biochemistry.&lt;/p&gt;
+      <description>&lt;p&gt;Nelson Kibinge is a senior scientist with the Biomarkers and Bionformatics team at Orion Pharma. His interests include development of statistical and computational tools for genomics, transcriptomics, proteomics and  metabolomics data mining. He is involved in diverse research areas including brain disorders, autoimmune diseases, malaria and respiratory virus epidemiology. He has experience in biomarker and therapeutic target prioritization. Before joining Orion was a senior research associate at the University of Bristol. He is also affiliated to the KEMRI-Wellcome Trust Research Program, a unique center of scientific research excellence in Africa and is also a part-time lecturer at the Pwani University department of Biochemistry.&lt;/p&gt;
 </description>
     </item>
     

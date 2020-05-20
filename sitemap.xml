@@ -34,6 +34,51 @@
   </url>
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/biomarkers/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/kibinge_2020/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/project/autoimmune-project/</loc>
     <lastmod>2019-04-29T00:00:00+00:00</lastmod>
   </url>
@@ -60,12 +105,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/project/transregulonet-project/</loc>
     <lastmod>2019-04-29T00:00:00+00:00</lastmod>
   </url>
@@ -79,29 +118,6 @@
   <url>
     <loc>/tags/research/</loc>
     <lastmod>2019-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/biomarkers/</loc>
-    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -125,17 +141,6 @@
     <loc>/tags/lung-cancer/</loc>
     <lastmod>2019-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
